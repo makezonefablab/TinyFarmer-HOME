@@ -1,7 +1,7 @@
 ﻿# TinyFarmer@Home
 ==========================
 
-![SparkFun MP3 Player Shield](https://raw.githubusercontent.com/makezonefablab/HungryBot/master/img/%EA%B0%9C%EC%9A%94.png)  
+![SparkFun MP3 Player Shield](https://raw.githubusercontent.com/makezonefablab/TinyFarmer-HOME/master/img/IMG_6425.jpg)  
 
 [*헝그리봇 교안 - 메이크존 사이트 바로가기*](http://makezone.co.kr/blog/2014/08/14/07hungrybot/)
 
