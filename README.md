@@ -1,7 +1,7 @@
 ﻿# TinyFarmer@Home
 ==========================
 
-![SparkFun MP3 Player Shield](https://raw.githubusercontent.com/makezonefablab/TinyFarmer-HOME/master/img/IMG_6425.jpg)  
+![TinyFarmer@Home Intro](https://raw.githubusercontent.com/makezonefablab/TinyFarmer-HOME/master/img/IMG_6425.jpg)  
 
 [*헝그리봇 교안 - 메이크존 사이트 바로가기*](http://makezone.co.kr/blog/2014/08/14/07hungrybot/)
 
@@ -17,7 +17,7 @@ ESP8266 이 AP역할을하며 그 안에 서버 모듈을 탑재하여 스마트
 
 또한, 아이콘을 클릭하면 토양과 대기 상태를 캐릭터로 쉽게 확인할 수 있습니다.
 
-![SparkFun MP3 Player Shield](https://raw.githubusercontent.com/makezonefablab/TinyFarmer-HOME/master/img/Samsung-Galaxy-S5-PSD-MockUp-2.jpg)  
+![TinyFarmer@Home App](https://raw.githubusercontent.com/makezonefablab/TinyFarmer-HOME/master/img/Samsung-Galaxy-S5-PSD-MockUp-2.jpg)  
 
 
 준비물
