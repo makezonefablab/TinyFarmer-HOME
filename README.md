@@ -24,11 +24,11 @@ ESP8266 이 AP역할을하며 그 안에 서버 모듈을 탑재하여 스마트
 
 준비물
 --------------
-![ScreenShot](https://raw.githubusercontent.com/makezonefablab/HungryBot/master/img/%EC%A4%80%EB%B9%84%EB%AC%BC_.jpg)
+
 
 제작영상
 --------------
-[![ScreenShot](https://raw.githubusercontent.com/makezonefablab/HungryBot/master/img/vimeo.png)](https://vimeo.com/102814242)
+
 
 
 
